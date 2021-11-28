@@ -1,0 +1,17 @@
+@media (max-width: 800px){
+    nav {
+        display: none;
+    }
+    #divider {
+        display: block;
+    } 
+    ul {
+        flex-direction: column;
+        align-items: flex-end;
+        margin-top: 30px;
+        margin-right: 20px;
+    }
+    .nav-bar.toggle {
+        display: block;
+    }
+}

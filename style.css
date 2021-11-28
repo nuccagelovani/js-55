@@ -1,0 +1,44 @@
+.divv, .divv1 {
+    width: 20px;
+    height: 3px;
+    background-color:  black;
+    margin: 3px;
+}
+.logo {
+    width: 50px;
+}
+.nav-bar {
+    margin-top: 20px;
+    position: relative;
+}
+ul {
+    display: flex;
+    align-items: center;
+}
+li {
+    padding: 3px;
+    color: brown;
+}
+#divider {
+    display: none;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.divider1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 90%; */
+
+}
+.slider {
+    width: 100%;
+    margin-top: 50px;
+}
+.clearlist,.button {
+    background-color: red;
+    border: 0px;
+    color: white;
+}
+
